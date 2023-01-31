@@ -1,0 +1,23 @@
+{
+  "name": "html-intro",
+  "version": "1.0.0",
+  "description": "0. Fork this repo and clone it to your computer.    You can verify this by seeing your GitHub username in the URL and not `gschool`.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alkumeidy/html-intro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alkumeidy/html-intro/issues"
+  },
+  "homepage": "https://github.com/alkumeidy/html-intro#readme",
+  "dependencies": {
+    "live-server": "^1.2.2"
+  }
+}

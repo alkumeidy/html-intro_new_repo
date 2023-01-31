@@ -1,0 +1,12 @@
+body {
+	font-size: 1.4rem;
+	text-rendering: optimizeLegibility;
+}
+
+h3 {
+	font-size: 1.4rem;
+}
+
+td {
+	padding: .5rem;
+}
